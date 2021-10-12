@@ -20,4 +20,4 @@ _Maximum Theater Utilization:_
 **Steps for running**
 1. Download repository
 2. Navigate to the downloaded repository
-2. Run “python3 seat_assigner_main.py” in terminal
+2. Run “python3 seat_assigner_main.py input.txt” in terminal
