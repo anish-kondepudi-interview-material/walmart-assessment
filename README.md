@@ -11,7 +11,7 @@
 _Customer Satisfaction:_
 
 1. Customers who make reservations as a group will be more satisfied if they sit next to each other
-2. The middle seats give the best viewing experience, therefore costumes who sit there will have the highest satisfaction
+2. The middle seats give the best viewing experience, therefore customers who sit there will have the highest satisfaction
 
 _Maximum Theater Utilization:_
 
